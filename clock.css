@@ -1,0 +1,38 @@
+body {
+    background-image: url('./biomutant.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; 
+}
+
+
+#clock {
+    font-weight: bold;
+    font-size: 200px;
+    color: #ffffff;
+    text-align: center;
+    display: block;
+    padding: 5px, 0px;
+    font-family: 'Arial';
+}
+
+#greeting {
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    display: block;
+    font-family: sans-serif;
+}
+
+#back {
+    background-color: grey;
+    opacity: 0.6;
+    width: 33%;
+    display: block;
+    padding: 5px, 0px;
+    margin-left: 33%;
+    margin-top: 10%;
+    border-radius: 10px;
+}
